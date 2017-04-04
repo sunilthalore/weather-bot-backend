@@ -1,0 +1,12 @@
+{
+	name": "Weather bot",
+	"description": "This app does calls yahoo weather api and tell the weather for a location",
+	"keywords": [
+		"Weather",
+    		"python",
+		"flask"
+	],
+	"website": "https://sunilthalore.github.io",
+	"repository": "https://github.com/sunilthalore/weather-bot-backend",
+	"logo": "https://github.com/sunilthalore/sunilthalore.github.io/blob/master/assests/weather-ico.png",
+}
